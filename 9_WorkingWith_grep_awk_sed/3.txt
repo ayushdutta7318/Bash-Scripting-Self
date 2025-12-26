@@ -1,0 +1,10 @@
+Useful grep Options
+Option	Meaning
+-i	ignore case
+-n	show line numbers
+-v	invert match (exclude)
+
+in terminal:
+grep -i "error" app.log
+grep -n "ERROR" app.log
+grep -v "INFO" app.log
