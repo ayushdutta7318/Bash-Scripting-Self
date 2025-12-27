@@ -1,0 +1,28 @@
+✅ Lesson 13 — Defensive Bash Scripting (Writing Safe Scripts)
+
+At this stage, you can write Bash scripts.
+Now we focus on writing scripts that don’t break systems.
+
+As a Linux administrator, safety matters more than cleverness.
+
+🛑 Why Defensive Scripting Matters
+
+Bad scripts can:
+
+delete files accidentally
+
+run with empty variables
+
+behave unpredictably
+
+fail silently
+
+Good scripts:
+
+validate input
+
+fail early
+
+log actions
+
+protect the system
