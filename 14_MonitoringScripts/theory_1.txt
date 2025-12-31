@@ -1,0 +1,26 @@
+✅ Lesson 17 — Monitoring Scripts (Disk, Memory, Services)
+
+Monitoring scripts check system health and react when something is wrong.
+These are the scripts admins rely on every day.
+
+We’ll go one check at a time.
+
+🧠 What Is a Monitoring Script?
+
+A monitoring script:
+
+checks a system resource
+
+compares it to a threshold
+
+prints/logs a warning or OK message
+
+can later be hooked to cron or alerts
+
+Examples:
+
+disk almost full
+
+memory low
+
+service not running
