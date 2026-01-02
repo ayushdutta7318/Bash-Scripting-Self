@@ -1,0 +1,19 @@
+🧠 What Is Cron?
+
+Cron is a Linux scheduler.
+
+It runs commands or scripts:
+
+at specific times
+
+on specific days
+
+repeatedly (every X minutes/hours/days)
+
+Examples:
+
+run backups every night
+
+clean logs weekly
+
+monitor disk every 5 minutes
